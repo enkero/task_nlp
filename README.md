@@ -3,9 +3,13 @@
 conda 4.3.22 (Python 3.6)
 
 numpy==1.16.4
+
 pandas==0.24.2
+
 scikit-learn==0.21.2
+
 nltk==3.2.5
+
 xgboost==0.6
 
 
@@ -17,7 +21,7 @@ nlp_task.ipynb
 ##    Run final model 
 
 ```sh
-pytest run.py
+python run.py
 ```
 
 
